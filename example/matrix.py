@@ -39,4 +39,4 @@ while True:
                     ])
     render.text(0, 0, "THE MATRIX EXAMPLE", center=(1, 1))
 
-    render.update(30)
+    render.update(30) # Peasant FPS, I could add frame delays or something if I wanted 60fps but its beyond the scope of this example.
